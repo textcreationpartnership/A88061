@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from the head-quarters of our army in Scotland: being a diary of all proceedings in the army to Octob. 30. 1650. An Accompt of Col. Kerr and Straughans overture to the Lord Generall Cromwell, about accomodation. Also commissioners from them, with a declaration against the interest of the Scots King and Lords, &amp;c. Published by authority.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88061</idno>
+            <idno type="STC">Wing L1782</idno>
+            <idno type="STC">Thomason E615_14</idno>
+            <idno type="STC">ESTC R206701</idno>
+            <idno type="EEBO-CITATION">99865814</idno>
+            <idno type="PROQUEST">99865814</idno>
+            <idno type="VID">118065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118065)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E615[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from the head-quarters of our army in Scotland: being a diary of all proceedings in the army to Octob. 30. 1650. An Accompt of Col. Kerr and Straughans overture to the Lord Generall Cromwell, about accomodation. Also commissioners from them, with a declaration against the interest of the Scots King and Lords, &amp;c. Published by authority.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Nou: 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118065:1" rendition="simple:additions"/>
+            <p>LETTERS FROM THE HEAD-QUARTERS OF OUR ARMY IN SCOTLAND: BEING A DIARY of all Proceedings in the Army to <hi>Octob.</hi> 30. 1650.</p>
+            <p>An Accompt of Col. <hi>Kerr</hi> and <hi>Straughans</hi> Overture to the Lord Generall CROMWELL, about Accomodation.</p>
+            <p>Alſo Commiſſioners from them, with a Declara<g ref="char:EOLhyphen"/>tion againſt the Intereſt of the Scots King and Lords, &amp;c.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Publiſhed by Authority.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed by <hi>E. G.</hi> in the Old-baily. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:118065:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Cannot but continue my duty in acquainting you what paſſes here, I ſhall be glad to hear from you, now we are like to ſtay here longer then expected.</p>
+                  <p>My laſt told you of a Letter to be ſent to Col. <hi>Kerr</hi> &amp; <hi>Straughan</hi> from hence. Satturday the 26 the Commiſſary Gen. diſpatcht away a Trumpet with that letter, as alſo gave another to the Shi<g ref="char:EOLhyphen"/>riff of <hi>Cumberland</hi> to be ſpeeded away to M. <hi>Iohn Scot</hi> Bailiff and B. brother to the Lord of <hi>Bucc<g ref="char:EOLhyphen"/>liew,</hi> for his demanding reſtitution upon his Te<g ref="char:EOLhyphen"/>nants the Moſſ-troopers, for the horſes by them ſtolne the night we quartered in their Country; ſince which, promiſes hath been made of reſtitu<g ref="char:EOLhyphen"/>tion, and we doubt not to receive it very ſud<g ref="char:EOLhyphen"/>denly, or elſe to take ſatisfaction another way our ſelves.</p>
+                  <p>Sunday the 27. the Commiſſary, with Col. <hi>Fitch,</hi> Col. <hi>Hacker,</hi> and divers Officers of the Ar<g ref="char:EOLhyphen"/>my heard Sermon in the Cathedrall at <hi>Carliſle,</hi> where preached before them in the forenoone M. <hi>Bywater</hi> the Governours Chaplaine, and in the Afternoon an Officer of our Army.</p>
+                  <p>Munday 28. We had intelligence of ſome of
+<pb facs="tcp:118065:2"/>our Meſſengers being taken, and their Letters intercepted: alſo we were informed that a yeel<g ref="char:EOLhyphen"/>ding to us was in probability like to be ſhortly from ſome of their Grandees, who now better underſtand themſelves then formerly, and are ready to liſten to us, eſpecially the good people of the weſt of Scotland, from whom as alſo from <hi>Kerr</hi> and <hi>Straughan</hi> ſome Gentlemen are ſent to treat with his Excellency.</p>
+                  <p>Tueſday 29, Mr <hi>Caithnes</hi> came ſafe hither in the evening, and the Provoſt of Dumfreeze with him (who was a Major at Dunbar fight, there ta<g ref="char:EOLhyphen"/>ken, and now upon his Parole) came to renew it. Alſo our Trumpeter ſent with the Letter to <hi>Kerr</hi> and <hi>Straughan</hi> came in this night, who in<g ref="char:EOLhyphen"/>formes us of his kind entertainment at Dum<g ref="char:EOLhyphen"/>freeze, but their Scouts blinded him for many miles up and downe the Countrey, but <hi>Kerr</hi> was ſent for poſt to give anſwer to the Letter, who promiſed to returne it ſpeedily by a meſſenger of his owne. The Enemy having left Dumfreeze expectating of our comming. Many of their ſouldiers run away daily. Both Horſe, Foot, and Dragoones were ready for a march, and Thurſ<g ref="char:EOLhyphen"/>day morning next we were to have exchanged Engliſh for Scottiſh ground, but now (upon o<g ref="char:EOLhyphen"/>ther grounds) our deſired march is ſuſpended.
+<pb facs="tcp:118065:3"/>Our ſouldiers (not long ſince drooping and ſickly) are now moſt lively, well, and cheerful, deſirous of nothing more then action: Of ſuch vigour is a little Engliſh refreſhment, whereto ſome timely ſupplies of monies would be a moſt comfortable addition. This day Mr. <hi>Caithnes</hi> was diſpatcht away with other Letters to the Head<g ref="char:EOLhyphen"/>quarters, which is all at preſent from.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Carliſle,</hi> 
+                        <date>30 <hi>Octob.</hi> 1650.</date>
+                     </dateline>
+                     <signed>Your ſervant, <hi>T. F.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Letter ſent <hi>Kerr</hi> and <hi>Straughan</hi> from Car<g ref="char:EOLhyphen"/>liſle, was as followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>IT is not unknown to you what Amicable and Chri<g ref="char:EOLhyphen"/>ſtian wayes, both before and ſince our comming into</hi> Scotland, <hi>and even after our never to be forgotten Victory, My Lord Generall and the Officers about him have taken to avoid the effuſion of Chriſtian bloud; but hitherto (to our great griefe) God hath permitted all to be ineffectuall; yet knowing God can change the hearts of men in a Moment; It troubles me not to be further ſo<g ref="char:EOLhyphen"/>licitous, the union of Gods People, in both Nations, yea even throughout the whole world, being that which above any thing in the Earth we deſire, It's that which God hath commanded, that which he hath pro<g ref="char:EOLhyphen"/>miſed, that which we pray for, that which with con<g ref="char:EOLhyphen"/>fidence we believe ſhall be, and that which indefatiga<g ref="char:EOLhyphen"/>bly
+<pb facs="tcp:118065:3"/>I hope we ſhall endeavour; thoſe that are acquain<g ref="char:EOLhyphen"/>ted with the ſecrets of God doe clearely ſee, the Quar<g ref="char:EOLhyphen"/>rell is betwixt Chriſt and the Devill, betwixt Christs ſeede and the Devills. Here it began, here it will end. The whore of</hi> Babylon, <hi>hath received her deadly wound, let the Devill be her Chirurgion;</hi> Babylon <hi>is falling, let not Gods People (to the loſſe of their outward man) ſtay in it, much leſſe labour to ſupport it; And this ye are doing, though ignorantly: And our prayers for you ſhall be that the Lord would forgive you in that you know not what you doe; and that he would give you a cleare ſight of the great vvorke, he is now in theſe latter dayes carrying on and then I am ſure we ſhall not differ. I ſhall ſay no more further, then to let you know, that the Armes of our Chriſtian love are ſtill ſtretcht out, ready to imbrace you, vvhen ever God ſhall incline your hearts to come in to us: When you ſhall ſee, (as already wee have declared) We ſeeke not for domination over you, we ſeeke not to enſlave you, nor the depreſſing your Kirk-government, vve ſeeke not your Goods, nor Eſtates, but to carry on the Worke of the Lord, vvhich from our very ſoules, vve deſire you may have a joynt ſhare in. But if after all this, God ſhall ſtill ſuffer your eyes to be blinded, as that ſeeing, you vvill not ſee; and your hearts to be hardned as to perſiſt in your gaineſaying and oppoſing vvay of the Lord vvhat ever further miſery befalls
+<pb facs="tcp:118065:4"/>your Nation, either through Famine or Svvord, I muſt plainly tell you vvill lye heavy upon you: And this before any attempt be made upon you by theſe For<g ref="char:EOLhyphen"/>ces under my Command, I thought my ſelfe obliged in Chriſtian duty to acquaint you with, I remaine</hi>
+                  </p>
+                  <closer>
+                     <dateline>Carliſle, <date>
+                           <hi>Octob.</hi> 26. 1650.</date>
+                     </dateline>
+                     <signed>Your ſervant, E. W.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>By a ſpeciall Expreſſe from Edenburgh, thus:</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Myne intended to be ſprung under <hi>E<g ref="char:EOLhyphen"/>denburgh</hi>-caſtle goes on very well, they have now wrought 60 yards into it, and are come to the hard Rocke, ſo that a few dayes (if there be not ſome unexpected interruption) will produce the deſired effect. The two Mor<g ref="char:EOLhyphen"/>ter-pieces being come from Hull. I hope we ſhall goe to worke that way. Major <hi>Brovvne</hi> hath with a party of Horſe poſſeſſed a ſtrong houſe not farre from Dalkeeth called Dalhouz, it was ſuſpected to have bin an harbour for thoſe vil<g ref="char:EOLhyphen"/>lanous Moſſe Troopers who murdered ſome of our men that were either ſtragling or going for proviſions. They found in it 50. Muſkets, 50. pikes, foure Barrels of powder and ſome ſtore of proviſions and provender.</p>
+                  <p>On Tueſday laſt a Lieutenant came with ſome intimations from Col. <hi>Ker</hi> and Col. <hi>Straug<g ref="char:EOLhyphen"/>han</hi>
+                     <pb facs="tcp:118065:4"/>as to their Reſolution for a conference, they having already ſent foure Commiſſioners to the Court Commiſſioners with a Declaration, that they will not own the intereſt of King and Lords, and that as to the Executive part of the Kingly power they did not think it fit the King ſhould be admitted to it untill he had given bet<g ref="char:EOLhyphen"/>ter ſatisfaction to their Kirke, that his father was juſtly put to death for his acts of tyranny though there might be ſome miſcarriages in the way, that the Commiſſioners and Kirk had done very ill in provoking the Engliſh, but that the Par<g ref="char:EOLhyphen"/>liament were too much to blame to ſend an Ar<g ref="char:EOLhyphen"/>my to make an Invaſion to proceed to bloud be<g ref="char:EOLhyphen"/>fore they gave them warning. They ſent alſo a Letter to the Generall with ſome Queeries in<g ref="char:EOLhyphen"/>cloſed concerning what ſecurity or ſatisfaction was expected &amp; to whom it ſhould be given, &amp;c.</p>
+                  <p>From Saint <hi>Iohnſtons</hi> wee underſtand that the Kings and Kirks party are ſtill at variance. That the Royall party (having notice from ſome of the Kirks who deſerted them of the quarters of Sir <hi>Io. Brounes</hi> Regiment) fell upon that Regi<g ref="char:EOLhyphen"/>ment, took ſix ſcore Horſe and priſoners: That therupon L. G. <hi>David Leſley</hi> was gone with four Regiments of horſe to fall upon them, and that Major General <hi>Mountgomery</hi> was gone with 800
+<pb facs="tcp:118065:5"/>horſe to reduce <hi>Straughan</hi> and that party to the obedience of the Kirk. That the Kirk had per<g ref="char:EOLhyphen"/>ſwaded the King to proclaime, that if thoſe in the hither parts of the North ſhould not come in within 15 daies, and the reſt within 20 daies, and lay downe their armes, that they ſhould be proceeded againſt as Traytors and enemies to to him. The Kings party inſiſt to have a free Parliament, and that they may ſit in Parlia<g ref="char:EOLhyphen"/>ment with the reſt; the Kirke ſay none ſhal have any hand in government that were enga<g ref="char:EOLhyphen"/>ged in <hi>Hamiltons</hi> invaſion. Our worke now is to ſtand ſtill and ſee ſalvation wrought for us, this Nation being deſtinated for ruine, which makes them thus to divide amongſt themſelves, when an Enemy is in their bowels.</p>
+                  <p>We are raiſing a Platform for a battery againſt <hi>Edenburgh</hi> caſtle, which we hope (with the mine) will tend much to the reducing the ſame. They in the Caſtle have beene ſo angry at it, that for two or three nights together they diſcharged ſeven pieces of Ordnance againſt it, but did not ſpoyle it much.</p>
+                  <p>Saturday <hi>Oct.</hi> 26. The Generall and Officers of the Army kept a day of humiliation to humble themſelves for the ſins of the Army, and to de<g ref="char:EOLhyphen"/>ſire Gods bleſſing upon their proceedings.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Edenburgh,</hi> 
+                        <date>27 <hi>Octob.</hi> 1650.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
